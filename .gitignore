@@ -15,4 +15,6 @@
 .DS_Store
 .prettierignore
 
-*.md
+# AI instructions
+AGENTS.md
+CLAUDE.md
